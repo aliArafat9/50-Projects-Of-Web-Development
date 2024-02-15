@@ -3,152 +3,151 @@
 ```# Project Count  50```
 
 * # Day 1
-  * 3d-boxes-background
+  * 3d-Boxes-Background
 
 * # Day 2
-  * animated-countdown
+  * Animated-Countdown
 
 * # Day 3
-  * Animated-navigation
+  * Animated-Navigation
 
 * # Day 4
-  * auto-text-effect
+  * Auto-Text-Effect
 
 * # Day 5
-  * background-slider
+  * Background-Slider
  
 * # Day 6
-  * blurry-loading
+  * Blurry-Loading
   
 * # Day 7
-  * button-ripple-effect
+  * Button-Ripple-Effect
 
 * # Day 8
-  * content-placeholder
+  * Content-Placeholder
 
 * # Day 9
-  * custom-range-slider
+  * Custom-Range-Slider
 
 * # Day 10
-  * dad-jokes
+  * Dad-Jokes
  
 * # Day 11
-  * double-click-heart
+  * Double-Click-Heart
 
 * # Day 12
-  * double-vertical-slider
+  * Double-Vertical-Slider
 
 * # Day 13
-  * drag-n-drop
+  * Drag-N-Drop
 
 * # Day 14
-  * drawing-app
+  * Drawing-App
 
 * # Day 15
-  * drink-water
+  * Drink-Water
  
 * # Day 16
-  * event-keycodes
+  * Event-Keycodes
 
 * # Day 17
-  * expanding-cards
+  * Expanding-Cards
 
 * # Day 18
-  * faq-collapse
+  * Faq-Collapse
 
 * # Day 19
-  * feedback-ui-design
+  * Feedback-Ui-Design
 
 * # Day 20
-  * Inout_Animation
+  * Form-Input-Wave
  
 * # Day 21
-  * form-input-wave
+  * Github-Profiles
 
 * # Day 22
-  * github-profiles
+  * Good-Cheap-Fast
 
 * # Day 23
-  * good-cheap-fast
+  * Hidden-Search
  
 * # Day 24
-  * hidden-search
-
+  * Hoverboard
+  * 
 * # Day 25
-  * Card with Flip Animation
+  * Image-Carousel
 
 * # Day 26
-  * Responsive Drop Down Menu
+  * Incrementing-Counter
 
 * # Day 27
-  * Navigation Links Hover Animation
+  * Insect-Catch-Game
 
 * # Day 28
-  * Admin Dashboard
+  * Kinetic-Loader
  
 * # Day 29
-  * Day Night Mode
+  * Live-User-Filter
 
 * # Day 30
-  * Neumorphism Keyboard Design
+  * Mobile-Tab-Navigation
 
 * # Day 31
-  * Responsive Contact Us Form
+  * Movie-App
 
 * # Day 32
-  * Glowing Bulb Effect
+  * Netflix-Mobile-Navigation
 
 * # Day 33
-  * Search Box
+  * Notes-App
 
 * # Day 34
-  * Toggle Button With Dark/Light Mode
+  * Password-Generator
 
 * # Day 35
-  * Share Button Tooltip
+  * Password-Strength-Background
  
 * # Day 36
-  * Footer Design
+  * Pokedex
 
 * # Day 37
-  * Animated Navigation Bar
+  * Progress-Steps
 
 * # Day 38
-  * Product Card
+  * Quiz-App
 
 * # Day 39
-  * Flipping Card
+  * Random-Choice-Picker
 
 * # Day 40
-  * Sidebar Menu
+  * Random-Image-Generator
  
 * # Day 41
-  * Vertical Card Slider
+  * Rotating-Nav-Animation
 
 * # Day 42
-  * Animated Skills Bar
+  * Scroll-Animation
 
 * # Day 43
-  * Neumorphism Profile Card
+  * Sound-Board
 
 * # Day 44
-  * Neumorphism Loading Spinner
+  * Split-Landing-Page
 
 * # Day 45
-  * Glassmorphism Sidebar
+  * Sticky-Navigation
  
 * # Day 46
-  * Coffee Website
+  * Testimonial-Box-Switcher
 
 * # Day 47
-  * Responsive Website
+  * Theme-Clock
 
 * # Day 48
-  * Contact Us Form
+  * Toast-Notification
 
 * # Day 49
-  * Gradient
+  * Todo-List
 
 * # Day 50
-  * Inout_Animation
- 
+  * Verify-Account-Ui
