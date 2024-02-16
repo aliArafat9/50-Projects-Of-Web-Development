@@ -8,26 +8,6 @@ This repository is a collection of 50 mini web development projects, each design
 
 Feel free to explore the projects, use them as learning resources, or even customize and expand upon them. The goal is to provide a hands-on learning experience and spark inspiration for your web development journey.
 
-### How to Use:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/aliArafat9/50-Projects-Of-Web-Development.git
-   ```
-
-2. **Navigate to Project Directory:**
-   ```bash
-   cd 50-Projects-Of-Web-Development
-   ```
-
-3. **Choose a Project:**
-   Each project is contained within its own directory. Navigate to the project of interest.
-
-4. **Open in Browser:**
-   Open the `index.html` file of the project in your preferred browser.
-
-5. **Explore and Learn:**
-   Read the source code, modify it, and experiment to understand the concepts behind each project.
 
 ### Project List:
 * # Day 1
